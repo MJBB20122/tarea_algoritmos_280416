@@ -1,0 +1,1 @@
+/home/josselin/opengl/tarea_git_grupo/build/CMakeFiles/esfera.dir
